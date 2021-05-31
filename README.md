@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zihad Kabir Tanvir</h1>
-<h3 align="center">A frontend developer and a pythonista from Bangladesh</h3>
+<h3 align="center">A frontend developer and pythonista from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zktanvir&label=Profile%20views&color=0e75b6&style=flat" alt="zktanvir" /> </p>
 
@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zktanvir&show_icons=true&locale=en&layout=compact&theme=monokai" alt="zktanvir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zktanvir&show_icons=true&locale=en&theme=monokai" alt="zktanvir" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zktanvir&show_icons=true&locale=en&theme=monokai" alt="zktanvir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zktanvir&theme=monokai" alt="zktanvir" /></p>
 
